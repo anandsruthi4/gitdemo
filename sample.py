@@ -1,4 +1,6 @@
 a=10
 b=10
-sum=a+b
+c=2
+sum=a+b+c
+
 print sum
